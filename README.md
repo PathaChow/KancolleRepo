@@ -1,2 +1,2 @@
 # KancolleRepo
-艦colle作品存檔
+艦colle約稿作品存檔
